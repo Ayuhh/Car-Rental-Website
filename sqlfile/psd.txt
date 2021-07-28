@@ -1,0 +1,5 @@
+admin = ankitayush
+happy@gmail.com = shelby
+ankit@gmail.com = ak
+av@gmail.com = friendly
+ayush@gmail.com = ayush
